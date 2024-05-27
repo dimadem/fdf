@@ -1,4 +1,6 @@
-![42 wireframe](./42.png)
+<div align="center">
+  <img src="./42.png" width="70%" height="70%">
+</div>
 
 # FDF
 
