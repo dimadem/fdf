@@ -22,7 +22,3 @@ The FDF project includes the following features:
 - Animation: The wireframe can be animated to create dynamic visual effects.
 - Translation: The wireframe can be translated in the 3D space.
 - Two types of positioning: 2D orthographic and cabinet projections.
-
-## License
-
-no any license
