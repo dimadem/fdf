@@ -25,4 +25,4 @@ The FDF project includes the following features:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+no any license
